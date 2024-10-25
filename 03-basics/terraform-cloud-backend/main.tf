@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "devops-directive"
+    organization = "sattler-personal-projects"
 
     workspaces {
       name = "devops-directive-terraform-course"
